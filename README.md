@@ -11,3 +11,10 @@ IC Assignment 2: chapter 2
  - exponential equation
  - technically difficulties 
  -  i think it works
+
+ IC_inClass 1: log and conditional statments
+ used code from IC Assign. 2
+ plotted graph from standard to log format
+ made conditional if statements 
+ let copiolot do code for us
+ switched numbers to manipulate graph
