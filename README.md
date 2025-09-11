@@ -18,3 +18,10 @@ IC Assignment 2: chapter 2
  made conditional if statements 
  let copiolot do code for us
  switched numbers to manipulate graph
+
+IC In class 3 
+log function with carrying cpacity
+had to include die off of organisms
+made a growth model/graph for the function
+strugled with this
+chatgpt helped with trouble shooting
