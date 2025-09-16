@@ -25,3 +25,9 @@ had to include die off of organisms
 made a growth model/graph for the function
 strugled with this
 chatgpt helped with trouble shooting
+
+IC_inClass2
+imported population data csv file
+used copilot to create a graph of the first ten rows of data
+made the graph look cleaner using copilot 
+added a line to show carrying capacity and the average of the data
