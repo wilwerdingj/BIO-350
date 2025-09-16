@@ -27,6 +27,7 @@ strugled with this
 chatgpt helped with trouble shooting
 
 IC_inClass2
+installed panda 
 imported population data csv file
 used copilot to create a graph of the first ten rows of data
 made the graph look cleaner using copilot 
