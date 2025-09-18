@@ -32,3 +32,9 @@ imported population data csv file
 used copilot to create a graph of the first ten rows of data
 made the graph look cleaner using copilot 
 added a line to show carrying capacity and the average of the data
+
+IC in class 4 
+explored interspecific conflict 
+trying to find final populations
+graphed populations taking into consideraton carrying capacity die offf and competition.
+saw a completely die off of one species
