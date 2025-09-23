@@ -38,3 +38,8 @@ explored interspecific conflict
 trying to find final populations
 graphed populations taking into consideraton carrying capacity die offf and competition.
 saw a completely die off of one species
+
+IC in class 3
+started with data from assignment 4
+looked into conditional if statments
+saw how adjusting variables such as growth rate effected population
