@@ -43,3 +43,8 @@ IC in class 3
 started with data from assignment 4
 looked into conditional if statments
 saw how adjusting variables such as growth rate effected population
+
+IC in class 5 
+SIR model for rabies in foxs
+saw how population changed in time
+looked into infection rates and how diseases spread
