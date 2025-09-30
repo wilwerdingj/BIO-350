@@ -48,3 +48,10 @@ IC in class 5
 SIR model for rabies in foxs
 saw how population changed in time
 looked into infection rates and how diseases spread
+
+IC_inClass Assignment 4 (Carcass)
+Downloaded data from Dr. Carter as an R file.
+Trasnlated to python using copilot
+Ended up with three graphs
+Could not figure it out was trying to go section by section
+Dr Denny came over and fixed it by translating the entire code to python, in one block. Using copilot.
