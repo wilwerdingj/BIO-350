@@ -55,3 +55,14 @@ Trasnlated to python using copilot
 Ended up with three graphs
 Could not figure it out was trying to go section by section
 Dr Denny came over and fixed it by translating the entire code to python, in one block. Using copilot.
+
+IC assign 7 
+ made model of tree population over 100 years
+ each tree is replaced by sapling underneath
+ create and plot transition matrix
+ count each of the three tree types
+ looked at metapopulations of butterflys 
+ calculate populations over 50 years
+ created a 4x4 matrix using code from first part. 
+ calculate chance of extinction
+ plotted and graphed the model
