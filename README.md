@@ -66,3 +66,63 @@ IC assign 7
  created a 4x4 matrix using code from first part. 
  calculate chance of extinction
  plotted and graphed the model
+
+ 10/19 readme
+ Biological Analysis
+    Examines biological data (like DNA sequences or ecological samples) to uncover patterns and relationships.
+    Involves preprocessing, statistical testing, and visualization to interpret complex biological information.
+    Aims to convert raw biological data into meaningful insights about organisms or ecosystems.
+Amplicon Sequencing vs. Whole Genome Sequencing
+    Amplicon sequencing targets specific DNA regions (e.g., 16S rRNA) to identify organisms within a sample.
+    Whole genome sequencing (WGS) sequences the entire genome, offering detailed genetic information.
+    Amplicon is cost-effective for community profiling, while WGS provides comprehensive genomic data.
+DNA Barcoding
+    Uses short, standardized DNA sequences (“barcodes”) to identify species.
+    Enables accurate identification even from small or degraded samples.
+    Commonly used in ecology, taxonomy, and biodiversity studies.
+Diversity Metrics – Alpha vs. Beta Diversity
+    Alpha diversity measures species richness and evenness within a single sample.
+    Beta diversity compares differences in species composition between samples.
+    Together, they describe biodiversity across local and regional scales.
+Extrapolation / Normalizing Data
+    Extrapolation predicts values beyond observed data based on trends.
+    Normalization adjusts data to a common scale to ensure fair comparisons.
+    Both help reduce bias and improve the reliability of analyses and models.
+When Is That Done / Necessary?
+    Used when datasets are uneven, incomplete, or collected under different conditions.
+    Normalization ensures fair comparisons, such as equal sequencing depth across samples.
+    Extrapolation helps predict results for unmeasured conditions or estimate asymptotic diversity.
+Lag Analysis
+    Examines time delays between causes and their effects.
+    Helps identify how long biological or environmental responses take to occur.
+    Useful for understanding cause-and-effect relationships and predicting future trends.
+Generalized Mixed Effect Model (GLMM)
+    Extends linear mixed models to handle non-normal data (e.g., counts, binary outcomes).
+    Combines fixed effects (main factors) and random effects (group-level variation).
+    Suitable for hierarchical or repeated-measures biological data.
+Linear Mixed Effect Model (LMM)
+    Models continuous outcomes with both fixed and random effects.
+    Handles correlated or grouped data, such as repeated measures on the same subject.
+    Improves accuracy and accounts for non-independence in experimental data.
+Allometric Scale Model
+    Describes how biological traits (e.g., metabolism, growth) scale with body size.
+    Often follows a power-law relationship: 
+    𝑌=𝑎𝑋𝑏
+    Y=aXb
+    Helps explain how size influences biological function and ecology.
+Linear vs. Logistic Regression
+    Linear regression models continuous outcomes assuming a straight-line relationship.
+    Logistic regression models categorical or binary outcomes (e.g., presence/absence).
+    Both are foundational tools for exploring relationships in biological data.
+Non-linear Regression
+    Fits data to models that aren’t straight lines (e.g., exponential, sigmoidal, or logarithmic).
+    Used when relationships change rate or level off over time.
+    Common in biological processes like enzyme kinetics or population growth.
+Random Forests
+    An ensemble learning method using multiple decision trees for prediction.
+    Each tree votes or averages its output to improve accuracy and reduce overfitting.
+    Handles complex, non-linear data and identifies key predictor variables.
+Cross-Validation and Accuracy of Models
+    Splits data into training and testing sets repeatedly to test model performance.
+    Helps detect overfitting and assess how well the model generalizes to new data.
+    Accuracy and related metrics measure how close predictions are to actual outcomes.
